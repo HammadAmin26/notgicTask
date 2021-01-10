@@ -87,6 +87,7 @@ const styles = {
     backgroundColor: 'grey',
     borderRadius: wp('3'),
     marginBottom: wp('5'),
+    overflow: 'hidden',
   },
   cancelButton: {
     width: wp('75'),
